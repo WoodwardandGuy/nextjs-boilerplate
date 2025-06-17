@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "woodward-guy-consulting",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.3"
+    "next": "15.3.3",
+    "framer-motion": "^11.0.0",
+    "react-icons": "^5.0.0"
   },
   "devDependencies": {
     "typescript": "^5",
